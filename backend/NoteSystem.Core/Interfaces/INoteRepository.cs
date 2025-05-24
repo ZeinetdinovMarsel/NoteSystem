@@ -3,7 +3,7 @@
 namespace NoteSystem.Core.Interfaces;
 public interface INoteRepository
 {
-    Task<NoteDto?> AddAsync(NoteDto createDto);
+    Task<NoteDto> AddAsync(NoteDto createDto);
     Task DeleteAsync(Guid noteId);
     Task<bool> ExistsAsync(Guid noteId);
     Task<bool> ExistsAsync(string noteTitle, Guid? noteId = null);

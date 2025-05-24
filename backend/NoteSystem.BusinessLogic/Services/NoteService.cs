@@ -33,7 +33,7 @@ public class NoteService : INoteService
         return await _noteRepository.GetAllAsync(userId);
     }
 
-    public async Task<NoteDto?> CreateNoteAsync(NoteDto createDto)
+    public async Task<NoteDto> CreateNoteAsync(NoteDto createDto)
     {
         if (string.IsNullOrWhiteSpace(createDto?.Title))
             throw new InvalidOperationException("Название не должно быть пустым");

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "5lJl1T1oehM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Infrastructure\\NoteSystem.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marse\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\marse\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.5\\microsoft.extensions.dependencyinjection.abstractions.9.0.5.nupkg.sha512",
+    "C:\\Users\\marse\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\marse\\.nuget\\packages\\microsoft.extensions.options\\9.0.5\\microsoft.extensions.options.9.0.5.nupkg.sha512",
+    "C:\\Users\\marse\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.5\\microsoft.extensions.primitives.9.0.5.nupkg.sha512",
+    "C:\\Users\\marse\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.10.0\\microsoft.identitymodel.abstractions.8.10.0.nupkg.sha512",
+    "C:\\Users\\marse\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.10.0\\microsoft.identitymodel.jsonwebtokens.8.10.0.nupkg.sha512",
+    "C:\\Users\\marse\\.nuget\\packages\\microsoft.identitymodel.logging\\8.10.0\\microsoft.identitymodel.logging.8.10.0.nupkg.sha512",
+    "C:\\Users\\marse\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.10.0\\microsoft.identitymodel.tokens.8.10.0.nupkg.sha512",
+    "C:\\Users\\marse\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.10.0\\system.identitymodel.tokens.jwt.8.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

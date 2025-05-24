@@ -31,7 +31,7 @@ public class NoteRepository : INoteRepository
         return note != null ? MapToDto(note) : null;
     }
 
-    public async Task<NoteDto?> AddAsync(NoteDto createDto)
+    public async Task<NoteDto> AddAsync(NoteDto createDto)
     {
         if (createDto == null)
             throw new ArgumentNullException(nameof(createDto));

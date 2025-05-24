@@ -3,12 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|solutionrelative:notesystem.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CA155116-5CBB-4DA1-8B07-DCD2C8BE3CC8}|NoteSystem.DataAccess\\NoteSystem.DataAccess.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.dataaccess\\repositories\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA155116-5CBB-4DA1-8B07-DCD2C8BE3CC8}|NoteSystem.DataAccess\\NoteSystem.DataAccess.csproj|solutionrelative:notesystem.dataaccess\\repositories\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.core\\interfaces\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|solutionrelative:notesystem.core\\interfaces\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.businesslogic\\services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|solutionrelative:notesystem.businesslogic\\services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.core\\interfaces\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|solutionrelative:notesystem.core\\interfaces\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.api\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|solutionrelative:notesystem.api\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|solutionrelative:notesystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|solutionrelative:notesystem.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|solutionrelative:notesystem.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.businesslogic\\services\\reminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|solutionrelative:notesystem.businesslogic\\services\\reminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.core\\interfaces\\ireminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|solutionrelative:notesystem.core\\interfaces\\ireminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|solutionrelative:notesystem.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|solutionrelative:notesystem.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.businesslogic\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|solutionrelative:notesystem.businesslogic\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.businesslogic\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,24 +67,12 @@
       "RelativeMoniker": "D:0:0:{CA155116-5CBB-4DA1-8B07-DCD2C8BE3CC8}|NoteSystem.DataAccess\\NoteSystem.DataAccess.csproj|solutionrelative:notesystem.dataaccess\\configurations\\categoryentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.businesslogic\\services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|solutionrelative:notesystem.businesslogic\\services\\noteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|solutionrelative:notesystem.businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA155116-5CBB-4DA1-8B07-DCD2C8BE3CC8}|NoteSystem.DataAccess\\NoteSystem.DataAccess.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.dataaccess\\entities\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA155116-5CBB-4DA1-8B07-DCD2C8BE3CC8}|NoteSystem.DataAccess\\NoteSystem.DataAccess.csproj|solutionrelative:notesystem.dataaccess\\entities\\categoryentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.businesslogic\\services\\reminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|solutionrelative:notesystem.businesslogic\\services\\reminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.api\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|solutionrelative:notesystem.api\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.businesslogic\\validator\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,20 +83,8 @@
       "RelativeMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|solutionrelative:notesystem.core\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|solutionrelative:notesystem.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|solutionrelative:notesystem.api\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.businesslogic\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|solutionrelative:notesystem.businesslogic\\services\\reportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|solutionrelative:notesystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.core\\interfaces\\ireportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,10 +95,6 @@
       "RelativeMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|solutionrelative:notesystem.core\\dtos\\reportdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.core\\interfaces\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|solutionrelative:notesystem.core\\interfaces\\inoteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.businesslogic\\extentions\\hangfireauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|solutionrelative:notesystem.businesslogic\\extentions\\hangfireauthorizationfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -87,20 +103,12 @@
       "RelativeMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|solutionrelative:notesystem.businesslogic\\extentions\\encryptionsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA155116-5CBB-4DA1-8B07-DCD2C8BE3CC8}|NoteSystem.DataAccess\\NoteSystem.DataAccess.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.dataaccess\\repositories\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA155116-5CBB-4DA1-8B07-DCD2C8BE3CC8}|NoteSystem.DataAccess\\NoteSystem.DataAccess.csproj|solutionrelative:notesystem.dataaccess\\repositories\\noterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA155116-5CBB-4DA1-8B07-DCD2C8BE3CC8}|NoteSystem.DataAccess\\NoteSystem.DataAccess.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA155116-5CBB-4DA1-8B07-DCD2C8BE3CC8}|NoteSystem.DataAccess\\NoteSystem.DataAccess.csproj|solutionrelative:notesystem.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA155116-5CBB-4DA1-8B07-DCD2C8BE3CC8}|NoteSystem.DataAccess\\NoteSystem.DataAccess.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.dataaccess\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CA155116-5CBB-4DA1-8B07-DCD2C8BE3CC8}|NoteSystem.DataAccess\\NoteSystem.DataAccess.csproj|solutionrelative:notesystem.dataaccess\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.core\\interfaces\\ireminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|solutionrelative:notesystem.core\\interfaces\\ireminderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.core\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -115,20 +123,12 @@
       "RelativeMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|solutionrelative:notesystem.core\\interfaces\\icryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.core\\interfaces\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|solutionrelative:notesystem.core\\interfaces\\inoterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.core\\dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|solutionrelative:notesystem.core\\dtos\\notedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.core\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D6C4C802-CE64-4FA1-9440-A14DFB4B86CB}|NoteSystem.Core\\NoteSystem.Core.csproj|solutionrelative:notesystem.core\\dtos\\userdtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.businesslogic\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1773B52A-4396-4747-841A-D4A4C83F2F3D}|NoteSystem.BusinessLogic\\NoteSystem.BusinessLogic.csproj|solutionrelative:notesystem.businesslogic\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7CF712BC-8381-4438-A2F4-FD53095792EB}|NoteSystem.API\\NoteSystem.API.csproj|c:\\users\\marse\\source\\repos\\notesystem\\backend\\notesystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -218,96 +218,184 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CategoryEntity.cs",
-              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.DataAccess\\Entities\\CategoryEntity.cs",
-              "RelativeDocumentMoniker": "NoteSystem.DataAccess\\Entities\\CategoryEntity.cs",
-              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.DataAccess\\Entities\\CategoryEntity.cs",
-              "RelativeToolTip": "NoteSystem.DataAccess\\Entities\\CategoryEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T09:10:44.862Z"
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CategoryEntityConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.DataAccess\\Configurations\\CategoryEntityConfiguration.cs",
-              "RelativeDocumentMoniker": "NoteSystem.DataAccess\\Configurations\\CategoryEntityConfiguration.cs",
-              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.DataAccess\\Configurations\\CategoryEntityConfiguration.cs",
-              "RelativeToolTip": "NoteSystem.DataAccess\\Configurations\\CategoryEntityConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "NoteSystem.API\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "NoteSystem.API\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwEkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T11:02:35.652Z"
+              "WhenOpened": "2025-05-21T15:40:32.743Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "NoteEntityConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.DataAccess\\Configurations\\NoteEntityConfiguration.cs",
-              "RelativeDocumentMoniker": "NoteSystem.DataAccess\\Configurations\\NoteEntityConfiguration.cs",
-              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.DataAccess\\Configurations\\NoteEntityConfiguration.cs",
-              "RelativeToolTip": "NoteSystem.DataAccess\\Configurations\\NoteEntityConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "ReminderService.cs",
+              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Services\\ReminderService.cs",
+              "RelativeDocumentMoniker": "NoteSystem.BusinessLogic\\Services\\ReminderService.cs",
+              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Services\\ReminderService.cs",
+              "RelativeToolTip": "NoteSystem.BusinessLogic\\Services\\ReminderService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAArwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T11:02:53.115Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "NoteSystem.BusinessLogic\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Services\\CategoryService.cs",
-              "RelativeToolTip": "NoteSystem.BusinessLogic\\Services\\CategoryService.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAmwFAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:20:09.292Z"
+              "WhenOpened": "2025-05-21T17:25:25.898Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "NoteService.cs",
-              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Services\\NoteService.cs",
-              "RelativeDocumentMoniker": "NoteSystem.BusinessLogic\\Services\\NoteService.cs",
-              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Services\\NoteService.cs",
-              "RelativeToolTip": "NoteSystem.BusinessLogic\\Services\\NoteService.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAmwGcAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Program.cs",
+              "RelativeDocumentMoniker": "NoteSystem.API\\Program.cs",
+              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Program.cs",
+              "RelativeToolTip": "NoteSystem.API\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAuwCQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T15:31:51.959Z"
+              "WhenOpened": "2025-05-21T10:19:19.622Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "ExceptionHandlingMiddleware.cs",
               "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Middleware\\ExceptionHandlingMiddleware.cs",
               "RelativeDocumentMoniker": "NoteSystem.API\\Middleware\\ExceptionHandlingMiddleware.cs",
               "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Middleware\\ExceptionHandlingMiddleware.cs",
               "RelativeToolTip": "NoteSystem.API\\Middleware\\ExceptionHandlingMiddleware.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAiwEMAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAiwC0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T11:07:27.754Z"
+              "WhenOpened": "2025-05-21T11:07:27.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "INoteService.cs",
+              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Interfaces\\INoteService.cs",
+              "RelativeDocumentMoniker": "NoteSystem.Core\\Interfaces\\INoteService.cs",
+              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Interfaces\\INoteService.cs",
+              "RelativeToolTip": "NoteSystem.Core\\Interfaces\\INoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:40:01.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteService.cs",
+              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Services\\NoteService.cs",
+              "RelativeDocumentMoniker": "NoteSystem.BusinessLogic\\Services\\NoteService.cs",
+              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Services\\NoteService.cs",
+              "RelativeToolTip": "NoteSystem.BusinessLogic\\Services\\NoteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:31:51.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "INoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Interfaces\\INoteRepository.cs",
+              "RelativeDocumentMoniker": "NoteSystem.Core\\Interfaces\\INoteRepository.cs",
+              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Interfaces\\INoteRepository.cs",
+              "RelativeToolTip": "NoteSystem.Core\\Interfaces\\INoteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:31:32.191Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NoteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.DataAccess\\Repositories\\NoteRepository.cs",
+              "RelativeDocumentMoniker": "NoteSystem.DataAccess\\Repositories\\NoteRepository.cs",
+              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.DataAccess\\Repositories\\NoteRepository.cs",
+              "RelativeToolTip": "NoteSystem.DataAccess\\Repositories\\NoteRepository.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAlwCgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:21:19.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IReminderService.cs",
+              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Interfaces\\IReminderService.cs",
+              "RelativeDocumentMoniker": "NoteSystem.Core\\Interfaces\\IReminderService.cs",
+              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Interfaces\\IReminderService.cs",
+              "RelativeToolTip": "NoteSystem.Core\\Interfaces\\IReminderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:26:50.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "NoteSystem.API\\Controllers\\ReportController.cs",
+              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "NoteSystem.API\\Controllers\\ReportController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAvwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:55:24.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "NoteSystem.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "NoteSystem.API\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:32:33.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "NoteSystem.API\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "NoteSystem.API\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAArwDAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAjwBkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T08:30:27.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "NoteSystem.BusinessLogic\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Services\\EmailService.cs",
+              "RelativeToolTip": "NoteSystem.BusinessLogic\\Services\\EmailService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAvwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:27:41.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "NoteSystem.BusinessLogic\\Services\\UserService.cs",
@@ -319,19 +407,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ReminderService.cs",
-              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Services\\ReminderService.cs",
-              "RelativeDocumentMoniker": "NoteSystem.BusinessLogic\\Services\\ReminderService.cs",
-              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Services\\ReminderService.cs",
-              "RelativeToolTip": "NoteSystem.BusinessLogic\\Services\\ReminderService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwC0AAAA2AAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "NoteSystem.BusinessLogic\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Services\\CategoryService.cs",
+              "RelativeToolTip": "NoteSystem.BusinessLogic\\Services\\CategoryService.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAmwFAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T17:25:25.898Z"
+              "WhenOpened": "2025-05-21T13:20:09.292Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
+              "Title": "NoteEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.DataAccess\\Configurations\\NoteEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "NoteSystem.DataAccess\\Configurations\\NoteEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.DataAccess\\Configurations\\NoteEntityConfiguration.cs",
+              "RelativeToolTip": "NoteSystem.DataAccess\\Configurations\\NoteEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:02:53.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.DataAccess\\Configurations\\CategoryEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "NoteSystem.DataAccess\\Configurations\\CategoryEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.DataAccess\\Configurations\\CategoryEntityConfiguration.cs",
+              "RelativeToolTip": "NoteSystem.DataAccess\\Configurations\\CategoryEntityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:02:35.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryEntity.cs",
+              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.DataAccess\\Entities\\CategoryEntity.cs",
+              "RelativeDocumentMoniker": "NoteSystem.DataAccess\\Entities\\CategoryEntity.cs",
+              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.DataAccess\\Entities\\CategoryEntity.cs",
+              "RelativeToolTip": "NoteSystem.DataAccess\\Entities\\CategoryEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T09:10:44.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "NoteSystem.Core\\Interfaces\\IUserService.cs",
@@ -343,7 +467,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 18,
               "Title": "UserValidator.cs",
               "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Validator\\UserValidator.cs",
               "RelativeDocumentMoniker": "NoteSystem.BusinessLogic\\Validator\\UserValidator.cs",
@@ -355,43 +479,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NotesController.cs",
-              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Controllers\\NotesController.cs",
-              "RelativeDocumentMoniker": "NoteSystem.API\\Controllers\\NotesController.cs",
-              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Controllers\\NotesController.cs",
-              "RelativeToolTip": "NoteSystem.API\\Controllers\\NotesController.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAASwGUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T15:40:32.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "NoteSystem.API\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "NoteSystem.API\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAcwEoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T08:32:33.144Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ReportController.cs",
-              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Controllers\\ReportController.cs",
-              "RelativeDocumentMoniker": "NoteSystem.API\\Controllers\\ReportController.cs",
-              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Controllers\\ReportController.cs",
-              "RelativeToolTip": "NoteSystem.API\\Controllers\\ReportController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T10:55:24.439Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "ReportService.cs",
               "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Services\\ReportService.cs",
               "RelativeDocumentMoniker": "NoteSystem.BusinessLogic\\Services\\ReportService.cs",
@@ -403,19 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Program.cs",
-              "RelativeDocumentMoniker": "NoteSystem.API\\Program.cs",
-              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Program.cs",
-              "RelativeToolTip": "NoteSystem.API\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAuwCQAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:19:19.622Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "ReportDtos.cs",
               "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Dtos\\ReportDtos.cs",
               "RelativeDocumentMoniker": "NoteSystem.Core\\Dtos\\ReportDtos.cs",
@@ -427,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "IReportService.cs",
               "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Interfaces\\IReportService.cs",
               "RelativeDocumentMoniker": "NoteSystem.Core\\Interfaces\\IReportService.cs",
@@ -439,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 26,
               "Title": "CategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.DataAccess\\Repositories\\CategoryRepository.cs",
               "RelativeDocumentMoniker": "NoteSystem.DataAccess\\Repositories\\CategoryRepository.cs",
@@ -451,19 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "INoteService.cs",
-              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Interfaces\\INoteService.cs",
-              "RelativeDocumentMoniker": "NoteSystem.Core\\Interfaces\\INoteService.cs",
-              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Interfaces\\INoteService.cs",
-              "RelativeToolTip": "NoteSystem.Core\\Interfaces\\INoteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T15:40:01.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "EncryptionSettings.cs",
               "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Extentions\\EncryptionSettings.cs",
               "RelativeDocumentMoniker": "NoteSystem.BusinessLogic\\Extentions\\EncryptionSettings.cs",
@@ -475,7 +539,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "HangfireAuthorizationFilter.cs",
               "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Extentions\\HangfireAuthorizationFilter.cs",
               "RelativeDocumentMoniker": "NoteSystem.BusinessLogic\\Extentions\\HangfireAuthorizationFilter.cs",
@@ -487,7 +551,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.DataAccess\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "NoteSystem.DataAccess\\Repositories\\UserRepository.cs",
@@ -499,31 +563,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "NoteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.DataAccess\\Repositories\\NoteRepository.cs",
-              "RelativeDocumentMoniker": "NoteSystem.DataAccess\\Repositories\\NoteRepository.cs",
-              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.DataAccess\\Repositories\\NoteRepository.cs",
-              "RelativeToolTip": "NoteSystem.DataAccess\\Repositories\\NoteRepository.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAIwGEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T15:21:19.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "IReminderService.cs",
-              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Interfaces\\IReminderService.cs",
-              "RelativeDocumentMoniker": "NoteSystem.Core\\Interfaces\\IReminderService.cs",
-              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Interfaces\\IReminderService.cs",
-              "RelativeToolTip": "NoteSystem.Core\\Interfaces\\IReminderService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T17:26:50.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Interfaces\\IUserRepository.cs",
               "RelativeDocumentMoniker": "NoteSystem.Core\\Interfaces\\IUserRepository.cs",
@@ -535,7 +575,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "ICategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Interfaces\\ICategoryRepository.cs",
               "RelativeDocumentMoniker": "NoteSystem.Core\\Interfaces\\ICategoryRepository.cs",
@@ -547,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "ICryptoService.cs",
               "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Interfaces\\ICryptoService.cs",
               "RelativeDocumentMoniker": "NoteSystem.Core\\Interfaces\\ICryptoService.cs",
@@ -559,19 +599,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "INoteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Interfaces\\INoteRepository.cs",
-              "RelativeDocumentMoniker": "NoteSystem.Core\\Interfaces\\INoteRepository.cs",
-              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Interfaces\\INoteRepository.cs",
-              "RelativeToolTip": "NoteSystem.Core\\Interfaces\\INoteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T15:31:32.191Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "NoteDto.cs",
               "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Dtos\\NoteDto.cs",
               "RelativeDocumentMoniker": "NoteSystem.Core\\Dtos\\NoteDto.cs",
@@ -583,7 +611,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "UserDtos.cs",
               "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.Core\\Dtos\\UserDtos.cs",
               "RelativeDocumentMoniker": "NoteSystem.Core\\Dtos\\UserDtos.cs",
@@ -616,18 +644,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-05-21T10:31:55.87Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Services\\EmailService.cs",
-              "RelativeDocumentMoniker": "NoteSystem.BusinessLogic\\Services\\EmailService.cs",
-              "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.BusinessLogic\\Services\\EmailService.cs",
-              "RelativeToolTip": "NoteSystem.BusinessLogic\\Services\\EmailService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwCQAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T17:27:41.974Z"
             },
             {
               "$type": "Document",
@@ -844,10 +860,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-21T09:34:26.773Z"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
