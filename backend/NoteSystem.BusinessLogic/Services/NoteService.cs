@@ -54,7 +54,7 @@ public class NoteService : INoteService
             throw new InvalidOperationException("Данная категория не принадлежит вам");
         }
 
-        NoteDto note = await _noteRepository.AddAsync(createDto);
+        NoteDto note = await _noteRepository.AddAsync(createDto) ?? createDto;
         await _noteRepository.SaveChangesAsync();
 
         return note;

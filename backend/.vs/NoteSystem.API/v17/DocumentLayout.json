@@ -218,12 +218,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 7,
@@ -234,8 +230,7 @@
               "RelativeToolTip": "NoteSystem.DataAccess\\Entities\\CategoryEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T09:10:44.862Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T09:10:44.862Z"
             },
             {
               "$type": "Document",
@@ -247,8 +242,7 @@
               "RelativeToolTip": "NoteSystem.DataAccess\\Configurations\\CategoryEntityConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T11:02:35.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T11:02:35.652Z"
             },
             {
               "$type": "Document",
@@ -260,8 +254,7 @@
               "RelativeToolTip": "NoteSystem.DataAccess\\Configurations\\NoteEntityConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T11:02:53.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T11:02:53.115Z"
             },
             {
               "$type": "Document",
@@ -273,8 +266,7 @@
               "RelativeToolTip": "NoteSystem.BusinessLogic\\Services\\CategoryService.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAmwFAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:20:09.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T13:20:09.292Z"
             },
             {
               "$type": "Document",
@@ -286,8 +278,7 @@
               "RelativeToolTip": "NoteSystem.BusinessLogic\\Services\\NoteService.cs",
               "ViewState": "AgIAAEUAAAAAAAAAAAAmwGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T15:31:51.959Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T15:31:51.959Z"
             },
             {
               "$type": "Document",
@@ -299,8 +290,7 @@
               "RelativeToolTip": "NoteSystem.API\\Middleware\\ExceptionHandlingMiddleware.cs",
               "ViewState": "AgIAACMAAAAAAAAAAAAiwEMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T11:07:27.754Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T11:07:27.754Z"
             },
             {
               "$type": "Document",
@@ -310,7 +300,7 @@
               "RelativeDocumentMoniker": "NoteSystem.API\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\marse\\source\\repos\\NoteSystem\\backend\\NoteSystem.API\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "NoteSystem.API\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAgwFkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAArwDAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T08:30:27.012Z",
               "EditorCaption": ""
@@ -325,8 +315,7 @@
               "RelativeToolTip": "NoteSystem.BusinessLogic\\Services\\UserService.cs",
               "ViewState": "AgIAAEEAAAAAAAAAAAAiwGIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T09:31:44.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T09:31:44.406Z"
             },
             {
               "$type": "Document",
@@ -338,8 +327,7 @@
               "RelativeToolTip": "NoteSystem.BusinessLogic\\Services\\ReminderService.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwC0AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T17:25:25.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T17:25:25.898Z"
             },
             {
               "$type": "Document",
@@ -351,8 +339,7 @@
               "RelativeToolTip": "NoteSystem.Core\\Interfaces\\IUserService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T11:30:50.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T11:30:50.881Z"
             },
             {
               "$type": "Document",
@@ -364,8 +351,7 @@
               "RelativeToolTip": "NoteSystem.BusinessLogic\\Validator\\UserValidator.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAgwEwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:26:06.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T10:26:06.189Z"
             },
             {
               "$type": "Document",
@@ -377,8 +363,7 @@
               "RelativeToolTip": "NoteSystem.API\\Controllers\\NotesController.cs",
               "ViewState": "AgIAAFEAAAAAAAAAAAASwGUAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T15:40:32.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T15:40:32.743Z"
             },
             {
               "$type": "Document",
@@ -390,8 +375,7 @@
               "RelativeToolTip": "NoteSystem.API\\Controllers\\UsersController.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAcwEoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T08:32:33.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T08:32:33.144Z"
             },
             {
               "$type": "Document",
@@ -403,8 +387,7 @@
               "RelativeToolTip": "NoteSystem.API\\Controllers\\ReportController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T10:55:24.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T10:55:24.439Z"
             },
             {
               "$type": "Document",
@@ -416,8 +399,7 @@
               "RelativeToolTip": "NoteSystem.BusinessLogic\\Services\\ReportService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T11:02:19.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T11:02:19.854Z"
             },
             {
               "$type": "Document",
@@ -429,8 +411,7 @@
               "RelativeToolTip": "NoteSystem.API\\Program.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAuwCQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T10:19:19.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T10:19:19.622Z"
             },
             {
               "$type": "Document",
@@ -442,8 +423,7 @@
               "RelativeToolTip": "NoteSystem.Core\\Dtos\\ReportDtos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T10:53:41.074Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T10:53:41.074Z"
             },
             {
               "$type": "Document",
@@ -455,8 +435,7 @@
               "RelativeToolTip": "NoteSystem.Core\\Interfaces\\IReportService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-24T11:05:56.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-24T11:05:56.678Z"
             },
             {
               "$type": "Document",
@@ -468,8 +447,7 @@
               "RelativeToolTip": "NoteSystem.DataAccess\\Repositories\\CategoryRepository.cs",
               "ViewState": "AgIAADoAAAAAAAAAAAAIwFgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T12:32:59.506Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T12:32:59.506Z"
             },
             {
               "$type": "Document",
@@ -481,8 +459,7 @@
               "RelativeToolTip": "NoteSystem.Core\\Interfaces\\INoteService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T15:40:01.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T15:40:01.135Z"
             },
             {
               "$type": "Document",
@@ -494,8 +471,7 @@
               "RelativeToolTip": "NoteSystem.BusinessLogic\\Extentions\\EncryptionSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T16:31:15.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T16:31:15.301Z"
             },
             {
               "$type": "Document",
@@ -507,8 +483,7 @@
               "RelativeToolTip": "NoteSystem.BusinessLogic\\Extentions\\HangfireAuthorizationFilter.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T17:21:16.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T17:21:16.163Z"
             },
             {
               "$type": "Document",
@@ -520,8 +495,7 @@
               "RelativeToolTip": "NoteSystem.DataAccess\\Repositories\\UserRepository.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAUwFcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T09:02:03.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T09:02:03.833Z"
             },
             {
               "$type": "Document",
@@ -533,8 +507,7 @@
               "RelativeToolTip": "NoteSystem.DataAccess\\Repositories\\NoteRepository.cs",
               "ViewState": "AgIAAEMAAAAAAAAAAAAIwGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T15:21:19.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T15:21:19.68Z"
             },
             {
               "$type": "Document",
@@ -546,8 +519,7 @@
               "RelativeToolTip": "NoteSystem.Core\\Interfaces\\IReminderService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T17:26:50.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T17:26:50.702Z"
             },
             {
               "$type": "Document",
@@ -559,8 +531,7 @@
               "RelativeToolTip": "NoteSystem.Core\\Interfaces\\IUserRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T11:30:45.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T11:30:45.462Z"
             },
             {
               "$type": "Document",
@@ -572,8 +543,7 @@
               "RelativeToolTip": "NoteSystem.Core\\Interfaces\\ICategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T13:18:28.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T13:18:28.456Z"
             },
             {
               "$type": "Document",
@@ -585,8 +555,7 @@
               "RelativeToolTip": "NoteSystem.Core\\Interfaces\\ICryptoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T16:23:41.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T16:23:41.582Z"
             },
             {
               "$type": "Document",
@@ -598,8 +567,7 @@
               "RelativeToolTip": "NoteSystem.Core\\Interfaces\\INoteRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T15:31:32.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T15:31:32.191Z"
             },
             {
               "$type": "Document",
@@ -876,6 +844,10 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-05-21T09:34:26.773Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

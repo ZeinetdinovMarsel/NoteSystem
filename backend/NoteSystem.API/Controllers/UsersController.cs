@@ -25,7 +25,7 @@ namespace NoteSystem.Api.Controllers
         [Authorize]
         public async Task<ActionResult<UserDto>> GetCurrentUser()
         {
-            string? userEmail = User.FindFirst("userEmail")?.Value;
+            string? userEmail = User.FindFirst("userEmail")?.Value ?? throw new InvalidOperationException("Почта пользователя не найдена");
             var user = await _userService.GetUserByEmailAsync(userEmail);
             user = user with { UserName = _cryptoService.Decrypt(user.UserName), Email = _cryptoService.Decrypt(user.Email) };
 

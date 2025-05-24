@@ -25,7 +25,7 @@ public class NotesController : ControllerBase
     [Authorize]
     public async Task<ActionResult<IEnumerable<NoteDto>>> GetAll()
     {
-        var userIdClaim = User.FindFirst("userId");
+        var userIdClaim = User.FindFirst("userId") ?? throw new InvalidOperationException("Произошла ошибка с получением id");
         var userId = Guid.Parse(userIdClaim.Value);
 
         var notes = await _noteService.GetAllNotesAsync(userId);
@@ -47,7 +47,7 @@ public class NotesController : ControllerBase
     [Authorize]
     public async Task<ActionResult<NoteDto>> GetById(Guid id)
     {
-        var userIdClaim = User.FindFirst("userId");
+        var userIdClaim = User.FindFirst("userId") ?? throw new InvalidOperationException("Произошла ошибка с получением id");
         var userId = Guid.Parse(userIdClaim.Value);
         var note = await _noteService.GetNoteByIdAsync(id, userId);
 
@@ -65,7 +65,7 @@ public class NotesController : ControllerBase
     [Authorize]
     public async Task<ActionResult> Create([FromBody] NoteDto createDto)
     {
-        var userIdClaim = User.FindFirst("userId");
+        var userIdClaim = User.FindFirst("userId") ?? throw new InvalidOperationException("Произошла ошибка с получением id");
 
         var userId = Guid.Parse(userIdClaim.Value);
 
@@ -73,7 +73,7 @@ public class NotesController : ControllerBase
 
         createDto = await _noteService.CreateNoteAsync(createDto);
 
-        string? userEmail = User.FindFirst("userEmail")?.Value;
+        string? userEmail = User.FindFirst("userEmail")?.Value ?? throw new InvalidOperationException("Почта пользователя не найдена");
 
         if (createDto.ReminderDate.HasValue)
         {
@@ -87,13 +87,13 @@ public class NotesController : ControllerBase
     public async Task<ActionResult> Update([FromBody] NoteDto updateDto)
     {
 
-        var userIdClaim = User.FindFirst("userId");
+        var userIdClaim = User.FindFirst("userId") ?? throw new InvalidOperationException("Произошла ошибка с получением id");
 
         var userId = Guid.Parse(userIdClaim.Value);
 
         updateDto = updateDto with { UserId = userId, Title = _cryptoService.Encrypt(updateDto.Title), Content = _cryptoService.Encrypt(updateDto.Content) };
 
-        string? userEmail = User.FindFirst("userEmail")?.Value;
+        string? userEmail = User.FindFirst("userEmail")?.Value ?? throw new InvalidOperationException("Почта пользователя не найдена");
 
         await _noteService.UpdateNoteAsync(updateDto);
 

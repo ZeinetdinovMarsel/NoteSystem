@@ -26,8 +26,8 @@ public class EmailService : IEmailService
 
         using var smtp = new MailKit.Net.Smtp.SmtpClient();
 
-        string host = _configuration["Smtp:Host"];
-        int port = int.Parse(_configuration["Smtp:Port"]);
+        string host = _configuration["Smtp:Host"] ?? "";
+        int port = int.Parse(_configuration["Smtp:Port"] ?? "");
 
         var connectTask = smtp.ConnectAsync(host, port);
 
